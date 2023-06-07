@@ -1,0 +1,4 @@
+name: NoHungerPlugin
+version: '1.0'
+main: rustbreaker.nohungerplugin.NoHungerPlugin
+api-version: 1.19
